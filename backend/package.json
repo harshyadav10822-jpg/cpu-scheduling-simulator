@@ -1,0 +1,17 @@
+
+{
+  "name": "cpu-scheduling-simulator-backend",
+  "version": "1.0.0",
+  "description": "Backend API for the CPU Scheduling Simulator",
+  "main": "server/index.js",
+  "scripts": {
+    "start": "node server/index.js"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.3.0"
+  }
+}
